@@ -2,7 +2,7 @@
   "name": "@rayriffy/table",
   "version": "0.0.2",
   "author": "Phumrapee Limpianchop <mail@rayriffy.com>",
-  "description": "Quick start template for publishing NPM package.",
+  "description": "Prebuilt Chakra UI table component with sorting, pagination, and filtering.",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",

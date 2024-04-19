@@ -2,6 +2,8 @@
 
 Prebuilt Chakra UI table component with sorting, pagination, and filtering.
 
+[Demo](https://rayriffy.com/table)
+
 ## Installation
 
 ```bash
