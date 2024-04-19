@@ -1,5 +1,11 @@
 # @rayriffy/quick-npm
 
+## 1.0.0
+
+### Major Changes
+
+- a535685: initial release
+
 ## 0.0.2
 
 ### Patch Changes
