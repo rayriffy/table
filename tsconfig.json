@@ -4,7 +4,8 @@
     "noEmit": true,
     "moduleResolution": "Bundler",
     "module": "ES2020",
-    "lib": ["DOM", "ES2015"],
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "jsx": "react-jsx",
     "verbatimModuleSyntax": true
   }
 }
