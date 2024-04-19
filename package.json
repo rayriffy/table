@@ -1,6 +1,6 @@
 {
   "name": "@rayriffy/table",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": "Phumrapee Limpianchop <mail@rayriffy.com>",
   "description": "Prebuilt Chakra UI table component with sorting, pagination, and filtering.",
   "license": "MIT",
