@@ -30,7 +30,7 @@
     "test": "vitest",
     "coverage": "vitest run --coverage",
     "dev": "pnpm run build --watch",
-    "build": "tsup src/index.ts --format cjs,esm --dts --clean",
+    "build": "tsup src/index.ts --format cjs,esm --dts --clean --config tsup.config.ts",
     "prepare": "pnpm build",
     "format": "prettier --write ."
   },
@@ -44,13 +44,13 @@
     "react-iconify-icon-wrapper": "0.0.3"
   },
   "devDependencies": {
-    "@changesets/cli": "2.26.2",
-    "@tsconfig/node18": "18.2.0",
-    "@types/react": "18.2.79",
+    "@changesets/cli": "2.27.1",
     "@tanstack/react-table": "8.16.0",
+    "@tsconfig/node18": "18.2.4",
+    "@types/react": "18.2.79",
     "react": "18.2.0",
-    "tsup": "7.1.0",
-    "typescript": "5.1.6",
-    "vitest": "0.32.2"
+    "tsup": "8.0.2",
+    "typescript": "5.4.5",
+    "vitest": "1.5.0"
   }
 }
