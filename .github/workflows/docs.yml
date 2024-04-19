@@ -34,6 +34,7 @@ jobs:
           pnpm -r i --frozen-lockfile
           cd example
           pnpm -r i --frozen-lockfile
+          pnpm build
       - name: configure
         uses: actions/configure-pages@v3
       - name: upload
