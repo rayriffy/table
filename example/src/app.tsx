@@ -13,7 +13,7 @@ import { Icon } from 'react-iconify-icon-wrapper'
 
 import { data } from './data'
 
-import { Table, SortableHeader } from '../../src'
+import { Table, SortableHeader } from '@rayriffy/table'
 
 import type { ColumnDef } from '@tanstack/react-table'
 import type { Booth } from './data'

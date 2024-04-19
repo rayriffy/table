@@ -31,7 +31,6 @@ jobs:
           cache: pnpm
       - name: build
         run: |
-          pnpm -r i --frozen-lockfile
           cd example
           pnpm -r i --frozen-lockfile
           pnpm build
